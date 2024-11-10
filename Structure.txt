@@ -1,0 +1,33 @@
+Prediction Of Used Car Prices Using Artificial Neural Networks And Machine Learning
+
+International Conference on Computer Communication and Informatics,Issue Date:31.March.2022
+
+
+Used_Car_Price_Prediction
+
+
+used_car_price_prediction
+
+
+
+
+
+
+
+price_prediction
+
+RID
+Car_Name
+Location
+Car_Year
+kilometer
+Fuel_Type
+Transmission
+Owner_Type
+Mileage
+Engine
+Power
+Seats
+Prediction
+
+
